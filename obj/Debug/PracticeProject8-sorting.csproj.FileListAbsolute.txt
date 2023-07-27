@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\bin\Debug\PracticeProject8-sorting.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\bin\Debug\PracticeProject8-sorting.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\bin\Debug\PracticeProject8-sorting.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\obj\Debug\PracticeProject8-sorting.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\obj\Debug\PracticeProject8-sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\obj\Debug\PracticeProject8-sorting.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\obj\Debug\PracticeProject8-sorting.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\PracticeProjects\PracticeProject8-sorting\PracticeProject8-sorting\obj\Debug\PracticeProject8-sorting.pdb
